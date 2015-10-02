@@ -6,6 +6,7 @@ libraryDependencies ++= Seq(
   "com.propensive" %% "rapture-json-jackson" % "1.1.0"
 , "com.github.nscala-time" %% "nscala-time" % "2.2.0"
 , "com.typesafe.akka" %% "akka-actor" % "2.4.0"
+, "io.jvm" %% "scala-uuid" % "0.1.5"
 )
 
 /* compile options */
